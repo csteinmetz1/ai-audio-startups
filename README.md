@@ -3,7 +3,7 @@ Community list of startups working with AI for audio and music tech
 
 # Music
 
-## Creation 
+## Creation & Production
 
 - [AIVA](https://www.aiva.ai) - The Artificial Intelligence composing emotional soundtrack music.
 - [beatoven.ai](https://www.beatoven.ai) - A simplified music creation tool that helps you create music for your videos and podcasts.
@@ -18,11 +18,8 @@ Community list of startups working with AI for audio and music tech
 - [AI Music](http://www.aimusic.co.uk/) (Acquired by Apple) - Our music helps brands enable deeper connections with their audiences.
 - [Splash HQ](https://www.splashcorporate.com/) - The next generation of music producers 
 - [musico](https://www.musi-co.com/) - AI-driven software engine that generates music. It can react to gesture, movement, code or other sound.
-- [Yousician]() - The largest music educator on the planet.
-
-
-## Production
-
+- [Yousician](https://yousician.com/) - The largest music educator on the planet.
+- [Tape It](https://tape.it/) - App for songwriting & audio recording.
 - [sessionwire](http://sessionwire.com) -  All-in-one online collaboration platform that delivers a seamless studio experience.
 - [Audio Design Desk](https://add.app) - The Audio Solution for Video Editors.
 - [Gaudio](https://www.gaudiolab.com/) - Redefine your audio experience in music/video streaming and virtual/augmented reality.
@@ -31,7 +28,6 @@ Community list of startups working with AI for audio and music tech
 - [NeuralDSP](https://neuraldsp.com) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
 - [RoEx](https://www.roexaudio.com) - AI Powered Mixing Services and Audio Solutions.
 - [LANDR](https://www.landr.com) - Online music software for creators: music mastering, digital music distribution, rent-to-own plugins, free sample packs, collaboration tools.
-- [Tape It](https://tape.it/) - App for songwriting & audio recording.
 - [Accusonus](https://accusonus.com) (Acquired by Meta) - Audio and Video Editing Software For Creators
 - [Moises](https://moises.ai/) - The Musician’s App.
 - [Tonz](https://tonz.ai/) - AI Audio FX
