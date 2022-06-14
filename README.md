@@ -111,6 +111,7 @@ Community list of startups working with AI for audio and music tech
 - [AssemblyAI](https://www.assemblyai.com) - Transcribe and understand audio with a single AI-powered API.
 - [DAISYS](https://daisys.ai/) - New voices that sound like real people
 - [WellSaid](https://wellsaidlabs.com/) - Text-to-speech technology that creates life-like synthetic voices, from the voices of real people.
+- [Deepsync](https://deepsync.co/) - Generate audio content that exactly sounds like you.
 
 ## Enhancement & Manipulation
 
