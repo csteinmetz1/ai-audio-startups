@@ -39,6 +39,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Analysis / Recommendation
 
+- [FeedForward](https://www.feedforwardai.com) - The intuitive audio search engine for audio & sound catalogues.
 - [Aimi](https://www.aimi.fm) - Discover the artists who freed their music from the shackles of songs and playlists.
 - [Utopia Music](https://utopiamusic.com) - Fair Pay for Every Play
 - [Musiio](https://www.musiio.com) *(Acquired by SoundCloud)* - Use Artificial Intelligence to help automate your workflows.
