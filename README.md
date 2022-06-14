@@ -11,7 +11,7 @@ Community list of startups working with AI for audio and music tech
 - [Epidemic Sound](https://www.epidemicsound.com) - High quality music and sound effects for all your content, all rights included. 
 - [Wonder](https://www.wonder.inc) - Dynascore: The world’s first Dynamic Music Engine.
 - [Amper](https://www.ampermusic.com/) *(Acquired by Shutterstock)* - AI Music Composition Tools for Content Creators.
-- [mayk.iy](https://www.mayk.it/) - your virtual music studio.
+- [mayk.it](https://www.mayk.it/) - your virtual music studio.
 - [boomy](https://boomy.com/) - Make instant music, Share it with the world.
 - [enote](https://enote.com) - Intelligent Sheet Music
 - [Qosmo](https://qosmo.jp/en/) - Qosmo is a group of artists, researchers, designers, and programmers.
