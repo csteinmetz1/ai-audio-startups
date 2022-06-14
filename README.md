@@ -35,6 +35,7 @@ Community list of startups working with AI for audio and music tech
 - [Accentize](https://www.accentize.com) - Intelligent audio tools
 - [AI Mastering](https://aimastering.com) - AI-powered online audio mastering service.
 - [Splice](https://splice.com/home) - Music-creation technology platform that automates the process of making and sharing music.
+- [AudioStellar](https://audiostellar.xyz/) - Open source data-driven experimental sampler.
 
 ## Analysis / Recommendation
 
