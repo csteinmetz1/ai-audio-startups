@@ -83,6 +83,7 @@ Community list of startups working with AI for audio and music tech
 - [auphonic](https://auphonic.com) - Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more.
 - [SimonSays](https://www.simonsaysai.com/) - Edit Video 5x Faster Built For Teams
 - [Podcastle](https://podcastle.ai/) - Studio-quality recording, AI-powered editing, and seamless exporting – easy to use and FREE
+- [cleanvoice](https://cleanvoice.ai/) - Removes filler sounds, stuttering and mouth sounds from your podcast or audio recording
 
 # Hearing 
 
