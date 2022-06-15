@@ -22,9 +22,7 @@ Community list of startups working with AI for audio and music tech
 - [Tape It](https://tape.it/) - App for songwriting & audio recording.
 - [sessionwire](http://sessionwire.com) -  All-in-one online collaboration platform that delivers a seamless studio experience.
 - [Audio Design Desk](https://add.app) - The Audio Solution for Video Editors.
-- [Gaudio](https://www.gaudiolab.com/) - Redefine your audio experience in music/video streaming and virtual/augmented reality.
 - [Never Before Heard Sounds](https://heardsounds.com) - A music studio powered by AI.
-- [AudioShake](https://www.audioshake.ai) - An On-Demand Stem Creation Platform for the Music Industry.
 - [NeuralDSP](https://neuraldsp.com) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
 - [RoEx](https://www.roexaudio.com) - AI Powered Mixing Services and Audio Solutions.
 - [LANDR](https://www.landr.com) - Online music software for creators: music mastering, digital music distribution, rent-to-own plugins, free sample packs, collaboration tools.
@@ -36,8 +34,22 @@ Community list of startups working with AI for audio and music tech
 - [AI Mastering](https://aimastering.com) - AI-powered online audio mastering service.
 - [Splice](https://splice.com/home) - Music-creation technology platform that automates the process of making and sharing music.
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven experimental sampler.
-- [Audionamix](https://audionamix.com/) -  Audio separation solutions for the entertainment industry to unlock every ounce of potential from classic content.
 - [chord.ai](https://chordai.net/) - Chords and beats for any song!
+- [mubert](https://mubert.com/) - Instantly generate tracks perfectly tailored to your content on any platform.
+- [Evoke Music](https://evokemusic.ai/) - Find the right music for your videos, podcasts, and business.
+- [Klangio](https://klangio.com/) - Our innovative apps enable you to create sheet music easy and fast!
+
+## Source separation
+
+- [Spliter.ai](https://splitter.ai/) -  AI Audio Processing
+- [Gaudio](https://www.gaudiolab.com/) - Redefine your audio experience in music/video streaming and virtual/augmented reality.
+- [AudioShake](https://www.audioshake.ai) - An On-Demand Stem Creation Platform for the Music Industry.
+- [Audionamix](https://audionamix.com/) -  Audio separation solutions for the entertainment industry to unlock every ounce of potential from classic content.
+- [vocali.se](https://vocali.se/en) - Separate vocals and music from any song, in seconds!
+- [lalal.ai](https://www.lalal.ai/) - High-quality stem splitting based on the world's #1 AI-powered technology.
+- [VocalRemover](https://vocalremover.org/) - Separate voice from music out of a song free with powerful AI algorithms.
+- [PhonicMind](https://phonicmind.com/) - Separate vocals, drums, bass and other instruments out of your songs with our HiFi AI.
+- [EasySplitter](https://easysplitter.com/) - AI-Based Vocal Remover Online for DJ Singers
 
 ## Analysis / Recommendation
 
@@ -69,6 +81,7 @@ Community list of startups working with AI for audio and music tech
 - [Descript](https://www.descript.com) - All-in-one audio & video editing, as easy as a doc.
 - [auphonic](https://auphonic.com) - Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more.
 - [SimonSays](https://www.simonsaysai.com/) - Edit Video 5x Faster Built For Teams
+- [Podcastle](https://podcastle.ai/) - Studio-quality recording, AI-powered editing, and seamless exporting – easy to use and FREE
 
 # Hearing 
 
@@ -102,6 +115,7 @@ Community list of startups working with AI for audio and music tech
 - [Amberscript](https://www.amberscript.com/en/) - SaaS solutions that automatically transform audio and video into text and subtitles using speech recognition.
 - [Speaksee](https://speak-see.com/) - Live captions what’s being said during in-person group meetings.
 - [Speechmatics](https://www.speechmatics.com/) - Autonomous Speech Recognition technology that understands every voice.
+- [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
 
 ## Synthesis (TTS)
 
@@ -125,7 +139,11 @@ Community list of startups working with AI for audio and music tech
 - [voicemod](https://www.voicemod.net/) - Free real-time voice changer.
 - [audo](https://audo.ai/) - Noise cancellation products for creators, developers, and virtual meetings. 
 - [AudioTelligence](https://audiotelligence.com/) - Our software transforms the clarity and intelligibility of speech in challenging acoustic environments.
+- [immersitech.io](https://immersitech.io/) - We don’t make audio. We make audio better.
+- [utterly](https://www.utterly.app/) - Noise removal for meetings and audio.
+- [claerity.ai](https://www.claerity.ai/) - Cutting-edge AI to eliminate all background noise on video conference calls.
 
 # Contributing 
+
 
 Fork the repo, edit the README, and then make a PR.
