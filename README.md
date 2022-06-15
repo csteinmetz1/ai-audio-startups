@@ -106,7 +106,7 @@ Community list of startups working with AI for audio and music tech
 # Speech
 
 ## Transcription
-
+- [Ava](https://www.ava.me) - Professional and AI-Based Captions for Deaf and HoH (Transcription & Diarization)
 - [verbit](https://verbit.ai/) - Professional AI-Based Transcription & Captioning
 - [otter](https://otter.ai/) - Everything hybrid teams need for productive, collaborative meetings.
 - [Trint](https://trint.com/) - Audio Transcription Software - Speech to Text to Magic
