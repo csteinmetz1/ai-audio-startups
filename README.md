@@ -36,6 +36,8 @@ Community list of startups working with AI for audio and music tech
 - [AI Mastering](https://aimastering.com) - AI-powered online audio mastering service.
 - [Splice](https://splice.com/home) - Music-creation technology platform that automates the process of making and sharing music.
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven experimental sampler.
+- [Audionamix](https://audionamix.com/) -  Audio separation solutions for the entertainment industry to unlock every ounce of potential from classic content.
+- [chord.ai](https://chordai.net/) - Chords and beats for any song!
 
 ## Analysis / Recommendation
 
@@ -115,6 +117,7 @@ Community list of startups working with AI for audio and music tech
 - [DAISYS](https://daisys.ai/) - New voices that sound like real people
 - [WellSaid](https://wellsaidlabs.com/) - Text-to-speech technology that creates life-like synthetic voices, from the voices of real people.
 - [Deepsync](https://deepsync.co/) - Generate audio content that exactly sounds like you.
+- [coqui.ai](https://coqui.ai/) -  Providing open speech tech for everyone
 
 ## Enhancement & Manipulation
 
