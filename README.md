@@ -132,6 +132,7 @@ Community list of startups working with AI for audio and music tech
 - [WellSaid](https://wellsaidlabs.com/) - Text-to-speech technology that creates life-like synthetic voices, from the voices of real people.
 - [Deepsync](https://deepsync.co/) - Generate audio content that exactly sounds like you.
 - [coqui.ai](https://coqui.ai/) -  Providing open speech tech for everyone
+- [Voiseed](https://voiseed.com/)- AI-based Voice Engine is able to mimic the emotions and prosody of human speech.
 
 ## Enhancement & Manipulation
 
