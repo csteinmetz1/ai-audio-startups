@@ -142,6 +142,7 @@ Community list of startups working with AI for audio and music tech
 - [immersitech.io](https://immersitech.io/) - We don’t make audio. We make audio better.
 - [utterly](https://www.utterly.app/) - Noise removal for meetings and audio.
 - [claerity.ai](https://www.claerity.ai/) - Cutting-edge AI to eliminate all background noise on video conference calls.
+- [Neural Love](https://neural.love/audio) - Set of AI-powered tools to enhance audio quality.
 
 # Contributing 
 
