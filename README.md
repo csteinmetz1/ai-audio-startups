@@ -38,6 +38,7 @@ Community list of startups working with AI for audio and music tech
 - [mubert](https://mubert.com/) - Instantly generate tracks perfectly tailored to your content on any platform.
 - [Evoke Music](https://evokemusic.ai/) - Find the right music for your videos, podcasts, and business.
 - [Klangio](https://klangio.com/) - Our innovative apps enable you to create sheet music easy and fast!
+- [XLN Audio](https://xlnaudio.com/) - VST plugin developer of Addictive Drums, Addictive Keys, RC-20 and XO.
 
 ## Source separation
 
