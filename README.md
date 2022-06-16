@@ -119,6 +119,7 @@ Community list of startups working with AI for audio and music tech
 - [Speaksee](https://speak-see.com/) - Live captions what’s being said during in-person group meetings.
 - [Speechmatics](https://www.speechmatics.com/) - Autonomous Speech Recognition technology that understands every voice.
 - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
+- [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
 
 ## Synthesis (TTS)
 
@@ -147,6 +148,8 @@ Community list of startups working with AI for audio and music tech
 - [utterly](https://www.utterly.app/) - Noise removal for meetings and audio.
 - [claerity.ai](https://www.claerity.ai/) - Cutting-edge AI to eliminate all background noise on video conference calls.
 - [Neural Love](https://neural.love/audio) - Set of AI-powered tools to enhance audio quality.
+- [HeardThat](https://www.heardthatapp.com/) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
+- [Chatable](https://chatableapps.com) - A smartphone app that removes disruptive background noise
 
 # Contributing 
 
