@@ -69,7 +69,6 @@ Community list of startups working with AI for audio and music tech
 - [Endel](https://endel.io) - Personalized soundscapes to help you focus, relax, and sleep.
 - [Lucid](https://www.thelucidproject.ca) - Transforming music into medicine, using AI to compose and curate a personalized therapeutic music experience
 - [Wavepaths](https://wavepaths.com) - Music for Psychedelic Therapy
-- [Musimap](https://www.musimap.net) - Emulate the complex emotional interaction that humans have with music.
 - [Suki](https://www.suki.ai/) - AI-powered voice solutions for healthcare.
 - [audEERING](https://www.audeering.com/) - Technology that can detect emotions and health information from the voice.
 - [brain.fm](https://www.brain.fm/) - Music to Focus Better
