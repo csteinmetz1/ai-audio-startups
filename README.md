@@ -61,7 +61,7 @@ Community list of startups working with AI for audio and music tech
 - [Musiio](https://www.musiio.com) *(Acquired by SoundCloud)* - Use Artificial Intelligence to help automate your workflows.
 - [niland](https://niland.io/) *(Acquired by Spotify)* - Build AI Powered Music Apps
 - [cyanite](https://cyanite.ai/) - AI for Music tagging and similarity search
-- [musicube](https://www.musicu.be/en/) - B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search
+- [musicube](https://www.musicu.be/en/) *(Acquired by SongTradr)* - B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search
 - [Musixmatch](https://www.musixmatch.com/) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
 
 ## Health & Wellbeing 
