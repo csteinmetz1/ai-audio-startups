@@ -21,6 +21,7 @@ Community list of startups working with AI for audio and music tech
 - [Yousician](https://yousician.com/) - The largest music educator on the planet.
 - [Tape It](https://tape.it/) - App for songwriting & audio recording.
 - [sessionwire](http://sessionwire.com) -  All-in-one online collaboration platform that delivers a seamless studio experience.
+- [Aflorithmic](https://www.aflorithmic.ai) - Professional audio, voice, sound and music to scale.
 - [Audio Design Desk](https://add.app) - The Audio Solution for Video Editors.
 - [Never Before Heard Sounds](https://heardsounds.com) - A music studio powered by AI.
 - [NeuralDSP](https://neuraldsp.com) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
