@@ -41,6 +41,7 @@ Community list of startups working with AI for audio and music tech
 - [XLN Audio](https://xlnaudio.com/) - VST plugin developer of Addictive Drums, Addictive Keys, RC-20 and XO.
 - [Lifescore](https://www.lifescoremusic.com/) - Adaptive AI music platform. Real time Cellular Composition from high quality audio samples.
 - [WaveAI](https://www.wave-ai.net) - AI-based musical assistanc including lyrics writing assistant. 
+- [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
 
 ## Source separation
 
@@ -139,6 +140,7 @@ Community list of startups working with AI for audio and music tech
 - [coqui.ai](https://coqui.ai/) -  Providing open speech tech for everyone
 - [Voiseed](https://voiseed.com/)- AI-based Voice Engine is able to mimic the emotions and prosody of human speech.
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
+- [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagned sounds into a synthesized MIDI instrument.
 
 ## Enhancement & Manipulation
 
