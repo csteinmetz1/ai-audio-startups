@@ -40,6 +40,7 @@ Community list of startups working with AI for audio and music tech
 - [Klangio](https://klangio.com/) - Our innovative apps enable you to create sheet music easy and fast!
 - [XLN Audio](https://xlnaudio.com/) - VST plugin developer of Addictive Drums, Addictive Keys, RC-20 and XO.
 - [Lifescore](https://www.lifescoremusic.com/) - Adaptive AI music platform. Real time Cellular Composition from high quality audio samples.
+- [WaveAI](https://www.wave-ai.net) - AI-based musical assistanc including lyrics writing assistant. 
 - [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
 
 ## Source separation
