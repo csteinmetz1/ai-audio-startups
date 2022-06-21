@@ -40,6 +40,7 @@ Community list of startups working with AI for audio and music tech
 - [Evoke Music](https://evokemusic.ai/) - Find the right music for your videos, podcasts, and business.
 - [Klangio](https://klangio.com/) - Our innovative apps enable you to create sheet music easy and fast!
 - [XLN Audio](https://xlnaudio.com/) - VST plugin developer of Addictive Drums, Addictive Keys, RC-20 and XO.
+- [Laplacian Audio](https://laplacianaudio.com) - Formerly 'Definite Technologies', developing VST/AU/AUv3 that uses AI in order to process/generate sound. 
 - [Lifescore](https://www.lifescoremusic.com/) - Adaptive AI music platform. Real time Cellular Composition from high quality audio samples.
 - [WaveAI](https://www.wave-ai.net) - AI-based musical assistanc including lyrics writing assistant. 
 - [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
