@@ -21,6 +21,7 @@ Community list of startups working with AI for audio and music tech
 - [Yousician](https://yousician.com/) - The largest music educator on the planet.
 - [Tape It](https://tape.it/) - App for songwriting & audio recording.
 - [sessionwire](http://sessionwire.com) -  All-in-one online collaboration platform that delivers a seamless studio experience.
+- [Aflorithmic](https://www.aflorithmic.ai) - Professional audio, voice, sound and music to scale.
 - [Audio Design Desk](https://add.app) - The Audio Solution for Video Editors.
 - [Never Before Heard Sounds](https://heardsounds.com) - A music studio powered by AI.
 - [NeuralDSP](https://neuraldsp.com) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
@@ -40,6 +41,9 @@ Community list of startups working with AI for audio and music tech
 - [Klangio](https://klangio.com/) - Our innovative apps enable you to create sheet music easy and fast!
 - [XLN Audio](https://xlnaudio.com/) - VST plugin developer of Addictive Drums, Addictive Keys, RC-20 and XO.
 - [Laplacian Audio](https://laplacianaudio.com) - Formerly 'Definite Technologies', developing VST/AU/AUv3 that uses AI in order to process/generate sound. 
+- [Lifescore](https://www.lifescoremusic.com/) - Adaptive AI music platform. Real time Cellular Composition from high quality audio samples.
+- [WaveAI](https://www.wave-ai.net) - AI-based musical assistanc including lyrics writing assistant. 
+- [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
 
 ## Source separation
 
@@ -59,9 +63,9 @@ Community list of startups working with AI for audio and music tech
 - [Aimi](https://www.aimi.fm) - Discover the artists who freed their music from the shackles of songs and playlists.
 - [Utopia Music](https://utopiamusic.com) - Fair Pay for Every Play
 - [Musiio](https://www.musiio.com) *(Acquired by SoundCloud)* - Use Artificial Intelligence to help automate your workflows.
-- [niland](https://niland.io/) - Build AI Powered Music Apps
+- [niland](https://niland.io/) *(Acquired by Spotify)* - Build AI Powered Music Apps
 - [cyanite](https://cyanite.ai/) - AI for Music tagging and similarity search
-- [musicube](https://www.musicu.be/en/) - B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search
+- [musicube](https://www.musicu.be/en/) *(Acquired by SongTradr)* - B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search
 - [Musixmatch](https://www.musixmatch.com/) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
 
 ## Health & Wellbeing 
@@ -69,7 +73,6 @@ Community list of startups working with AI for audio and music tech
 - [Endel](https://endel.io) - Personalized soundscapes to help you focus, relax, and sleep.
 - [Lucid](https://www.thelucidproject.ca) - Transforming music into medicine, using AI to compose and curate a personalized therapeutic music experience
 - [Wavepaths](https://wavepaths.com) - Music for Psychedelic Therapy
-- [Musimap](https://www.musimap.net) - Emulate the complex emotional interaction that humans have with music.
 - [Suki](https://www.suki.ai/) - AI-powered voice solutions for healthcare.
 - [audEERING](https://www.audeering.com/) - Technology that can detect emotions and health information from the voice.
 - [brain.fm](https://www.brain.fm/) - Music to Focus Better
@@ -107,7 +110,7 @@ Community list of startups working with AI for audio and music tech
 # Speech
 
 ## Transcription
-
+- [Ava](https://www.ava.me) - Professional and AI-Based Captions for Deaf and HoH (Transcription & Diarization)
 - [verbit](https://verbit.ai/) - Professional AI-Based Transcription & Captioning
 - [otter](https://otter.ai/) - Everything hybrid teams need for productive, collaborative meetings.
 - [Trint](https://trint.com/) - Audio Transcription Software - Speech to Text to Magic
@@ -120,6 +123,7 @@ Community list of startups working with AI for audio and music tech
 - [Speaksee](https://speak-see.com/) - Live captions what’s being said during in-person group meetings.
 - [Speechmatics](https://www.speechmatics.com/) - Autonomous Speech Recognition technology that understands every voice.
 - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
+- [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
 
 ## Synthesis (TTS)
 
@@ -137,6 +141,8 @@ Community list of startups working with AI for audio and music tech
 - [Deepsync](https://deepsync.co/) - Generate audio content that exactly sounds like you.
 - [coqui.ai](https://coqui.ai/) -  Providing open speech tech for everyone
 - [Voiseed](https://voiseed.com/)- AI-based Voice Engine is able to mimic the emotions and prosody of human speech.
+- [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
+- [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagned sounds into a synthesized MIDI instrument.
 
 ## Enhancement & Manipulation
 
@@ -148,6 +154,8 @@ Community list of startups working with AI for audio and music tech
 - [utterly](https://www.utterly.app/) - Noise removal for meetings and audio.
 - [claerity.ai](https://www.claerity.ai/) - Cutting-edge AI to eliminate all background noise on video conference calls.
 - [Neural Love](https://neural.love/audio) - Set of AI-powered tools to enhance audio quality.
+- [HeardThat](https://www.heardthatapp.com/) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
+- [Chatable](https://chatableapps.com) - A smartphone app that removes disruptive background noise
 
 # Contributing 
 
