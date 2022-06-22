@@ -156,6 +156,7 @@ Community list of startups working with AI for audio and music tech
 - [Neural Love](https://neural.love/audio) - Set of AI-powered tools to enhance audio quality.
 - [HeardThat](https://www.heardthatapp.com/) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
 - [Chatable](https://chatableapps.com) - A smartphone app that removes disruptive background noise
+- [BdSound](https://www.bdsound.com/) - Intelligent Audio Solution for audio and voice-enabled products. 
 
 # Contributing 
 
