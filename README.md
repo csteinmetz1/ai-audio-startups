@@ -106,6 +106,7 @@ Community list of startups working with AI for audio and music tech
 - [HyperSurfaces](https://www.hypersurfaces.com/) - Seamlessly merging the physical and data worlds without the need for keyboards, buttons or touch screens.
 - [HyperSentience](https://hypersentience.ai) - HyperSentience delivers context awareness to phones, VR/AR headsets, smart watches, speakers and laptops.
 - [Circulr Sound](https://www.circulrsound.com/) - Smart audio wearables
+- [Securaxis](https://www.securaxis.com/) - We turn sounds into information.
 
 # Speech
 
