@@ -67,7 +67,7 @@ Community list of startups working with AI for audio and music tech
 - [cyanite](https://cyanite.ai/) - AI for Music tagging and similarity search
 - [musicube](https://www.musicu.be/en/) *(Acquired by SongTradr)* - B2B AI music metadata services like auto-tagging, metadata enrichment and semantic search
 - [Musixmatch](https://www.musixmatch.com/) - Algorithms and tools for music discovery, recommendation, and search based on lyrics.
-
+- [hoopr](https://www.hoopr.ai) - Find the best music, tell better stories, grow your audience. AI-powered engine that helps find the right soundtrack.
 ## Health & Wellbeing 
 
 - [Endel](https://endel.io) - Personalized soundscapes to help you focus, relax, and sleep.
