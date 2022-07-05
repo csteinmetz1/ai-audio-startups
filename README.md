@@ -149,6 +149,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Enhancement & Manipulation
 
+- [Meaning](https://www.meaning.team/) - Augmenting the voice communication experience.
 - [krisp](https://krisp.ai/) - An AI-powered software solution for effective online meetings.
 - [voicemod](https://www.voicemod.net/) - Free real-time voice changer.
 - [audo](https://audo.ai/) - Noise cancellation products for creators, developers, and virtual meetings. 
