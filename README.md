@@ -44,6 +44,7 @@ Community list of startups working with AI for audio and music tech
 - [Lifescore](https://www.lifescoremusic.com/) - Adaptive AI music platform. Real time Cellular Composition from high quality audio samples.
 - [WaveAI](https://www.wave-ai.net) - AI-based musical assistanc including lyrics writing assistant. 
 - [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
+- [Voctro Labs](https://voiceful.io) - Synthetic Singing for creative media applications.
 
 ## Source separation
 
