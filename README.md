@@ -25,6 +25,7 @@ Community list of startups working with AI for audio and music tech
 - [Audio Design Desk](https://add.app) - The Audio Solution for Video Editors.
 - [Never Before Heard Sounds](https://heardsounds.com) - A music studio powered by AI.
 - [NeuralDSP](https://neuraldsp.com) - Empowers music players by democratizing the access to world-class sound, through an intuitive software/hardware ecosystem.
+- [Neutone](https://neutone.space/) - AI audio plugin & community bridging the gap between AI research and creativity. 
 - [RoEx](https://www.roexaudio.com) - AI Powered Mixing Services for Musicians, Producers and Content Creators.
 - [LANDR](https://www.landr.com) - Online music software for creators: music mastering, digital music distribution, rent-to-own plugins, free sample packs, collaboration tools.
 - [Accusonus](https://accusonus.com) *(Acquired by Meta)* - Audio and Video Editing Software For Creators
