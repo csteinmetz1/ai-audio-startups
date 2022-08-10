@@ -82,7 +82,8 @@ Community list of startups working with AI for audio and music tech
 - [brain.fm](https://www.brain.fm/) - Music to Focus Better
 - [SPOKE](https://www.spoke.world/) - Lo-fi & Lyricism-led Mindfulness music episodes
 - [sona](https://sona.care/) - music as medicine. research-based music for anxiety made by Grammy-winning producers.
-- [Novoic]((https://novoic.com/) - Using speech to detect neurological diseases.
+- [Novoic](https://novoic.com/) - Using speech to detect neurological diseases.
+
 # Radio / Podcast 
 
 - [faidr](https://faidr.com) - Your favorite radio, interruption free.
