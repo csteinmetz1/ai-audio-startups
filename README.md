@@ -81,6 +81,7 @@ Community list of startups working with AI for audio and music tech
 - [audEERING](https://www.audeering.com/) - Technology that can detect emotions and health information from the voice.
 - [brain.fm](https://www.brain.fm/) - Music to Focus Better
 - [SPOKE](https://www.spoke.world/) - Lo-fi & Lyricism-led Mindfulness music episodes
+- [sona](https://sona.care/) - music as medicine. research-based music for anxiety made by Grammy-winning producers.
 
 # Radio / Podcast 
 
