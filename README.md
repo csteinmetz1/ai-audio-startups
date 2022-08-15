@@ -46,6 +46,7 @@ Community list of startups working with AI for audio and music tech
 - [WaveAI](https://www.wave-ai.net) - AI-based musical assistanc including lyrics writing assistant. 
 - [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
 - [Voctro Labs](https://voiceful.io) - Synthetic Singing for creative media applications.
+- [Loudly](https://www.loudly.com) - Music solutions for the digital universe, makers of Soundtracks, AI Studio, Music Maker JAM
 
 ## Source separation
 
