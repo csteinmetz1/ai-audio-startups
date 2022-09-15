@@ -30,7 +30,7 @@ Community list of startups working with AI for audio and music tech
 - [LANDR](https://www.landr.com) - Online music software for creators: music mastering, digital music distribution, rent-to-own plugins, free sample packs, collaboration tools.
 - [Accusonus](https://accusonus.com) *(Acquired by Meta)* - Audio and Video Editing Software For Creators
 - [Moises](https://moises.ai/) - The Musician’s App.
-- [Tonz](https://tonz.ai/) - AI Audio FX
+- [Waveshaper](https://waveshaper.ai/) (Previously Tonz) - Real-time neural signal processing 
 - [Sonible](https://www.sonible.com) - Audio Soft & Hardware made in Austria.
 - [Accentize](https://www.accentize.com) - Intelligent audio tools
 - [AI Mastering](https://aimastering.com) - AI-powered online audio mastering service.
