@@ -95,6 +95,7 @@ Community list of startups working with AI for audio and music tech
 - [SimonSays](https://www.simonsaysai.com/) - Edit Video 5x Faster Built For Teams
 - [Podcastle](https://podcastle.ai/) - Studio-quality recording, AI-powered editing, and seamless exporting – easy to use and FREE
 - [cleanvoice](https://cleanvoice.ai/) - Removes filler sounds, stuttering and mouth sounds from your podcast or audio recording
+- [Super Hi-Fi](https://www.superhifi.com/) - Artificial Intelligence Powered Music Experiences
 
 # Hearing 
 
