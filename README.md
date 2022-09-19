@@ -37,6 +37,7 @@ Community list of startups working with AI for audio and music tech
 - [Splice](https://splice.com/home) - Music-creation technology platform that automates the process of making and sharing music.
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven experimental sampler.
 - [chord.ai](https://chordai.net/) - Chords and beats for any song!
+- [DoReMIR](https://doremir.com/) - Sing and play into a single mic to get a lead sheet, with lyrics & chords!
 - [mubert](https://mubert.com/) - Instantly generate tracks perfectly tailored to your content on any platform.
 - [Evoke Music](https://evokemusic.ai/) - Find the right music for your videos, podcasts, and business.
 - [Klangio](https://klangio.com/) - Our innovative apps enable you to create sheet music easy and fast!
