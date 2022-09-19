@@ -123,7 +123,7 @@ Community list of startups working with AI for audio and music tech
 - [verbit](https://verbit.ai/) - Professional AI-Based Transcription & Captioning
 - [otter](https://otter.ai/) - Everything hybrid teams need for productive, collaborative meetings.
 - [Trint](https://trint.com/) - Audio Transcription Software - Speech to Text to Magic
-- [Rev](rev.com) - 99% accurate captions, transcripts, and subtitles.
+- [Rev](https://rev.com) - 99% accurate captions, transcripts, and subtitles.
 - [voiceitt](https://voiceitt.com/) - An app for people with non-standard speech
 - [deepgram.com](https://deepgram.com/) - Better voice applications with faster, more accurate transcription through AI Speech Recognition 
 - [fireflies.ai](https://fireflies.ai/) - AI assistant for your meetings
