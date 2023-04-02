@@ -89,6 +89,7 @@ Community list of startups working with AI for audio and music tech
 - [SPOKE](https://www.spoke.world/) - Lo-fi & Lyricism-led Mindfulness music episodes
 - [sona](https://sona.care/) - music as medicine. research-based music for anxiety made by Grammy-winning producers.
 - [Novoic](https://novoic.com/) - Using speech to detect neurological diseases.
+- [Ubenwa](https://www.ubenwa.ai) - Infant health analysis based on cry signals.
 
 # Radio / Podcast 
 
