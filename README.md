@@ -49,6 +49,7 @@ Community list of startups working with AI for audio and music tech
 - [Voctro Labs](https://voiceful.io) - Synthetic Singing for creative media applications.
 - [Loudly](https://www.loudly.com) - Music solutions for the digital universe, makers of Soundtracks, AI Studio, Music Maker JAM
 - [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music 
+- [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
 
 ## Source separation
 
