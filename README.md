@@ -5,6 +5,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Creation & Production
 
+- [CassetteAI](https://cassetteAI.com) -  AI powered music production platform: Make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
 - [AIVA](https://www.aiva.ai) - The Artificial Intelligence composing emotional soundtrack music.
 - [beatoven.ai](https://www.beatoven.ai) - A simplified music creation tool that helps you create music for your videos and podcasts.
 - [Infinite Album](https://www.infinitealbum.io) - Adaptive AI music for gamers who livestream.
