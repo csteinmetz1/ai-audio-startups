@@ -50,6 +50,7 @@ Community list of startups working with AI for audio and music tech
 - [Loudly](https://www.loudly.com) - Music solutions for the digital universe, makers of Soundtracks, AI Studio, Music Maker JAM
 - [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music 
 - [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
+- [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
 
 ## Source separation
 
