@@ -5,6 +5,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Creation & Production
 
+- [TuneFlow](https://tuneflow.com/) - Generate lyrics, melody, drum beats and a lot more, while still being able to edit and mix like any professional DAWs.
 - [CassetteAI](https://cassetteAI.com) -  AI powered music production platform: Make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
 - [AIVA](https://www.aiva.ai) - The Artificial Intelligence composing emotional soundtrack music.
 - [beatoven.ai](https://www.beatoven.ai) - A simplified music creation tool that helps you create music for your videos and podcasts.
@@ -52,10 +53,10 @@ Community list of startups working with AI for audio and music tech
 - [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music 
 - [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
 - [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
-- [TuneFlow](https://tuneflow.com/) - Generate lyrics, melody, drum beats and a lot more, while still being able to edit and mix like any professional DAWs.
 
 ## Source separation
 
+- [TuneFlow](https://tuneflow.com/) - A free DAW that offers high quality vocal, drums, melody, bass stem separation, all-in-one audio separation, editing and vocal/instrument to MIDI transcription.
 - [Spliter.ai](https://splitter.ai/) -  AI Audio Processing
 - [Gaudio](https://www.gaudiolab.com/) - Redefine your audio experience in music/video streaming and virtual/augmented reality.
 - [AudioShake](https://www.audioshake.ai) - An On-Demand Stem Creation Platform for the Music Industry.
@@ -67,7 +68,6 @@ Community list of startups working with AI for audio and music tech
 - [EasySplitter](https://easysplitter.com/) - AI-Based Vocal Remover Online for DJ Singers
 - [MVSep](https://mvsep.com/) - Free separation of songs with many different algorithms (Demucs, MDX, UVR etc)
 - [Fadr](https://fadr.com/) - Remove stems, convert to midi, and create high-quality remixes and mashups using AI tools!
-- [TuneFlow](https://tuneflow.com/) - A free DAW that offers high quality vocal, drums, melody, bass stem separation, all-in-one audio separation, editing and vocal/instrument to MIDI transcription.
 
 ## Analysis / Recommendation
 
