@@ -52,6 +52,7 @@ Community list of startups working with AI for audio and music tech
 - [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music 
 - [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
 - [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
+- [okio](https://okio.ai/) - Open source generative tools for music
 
 ## Source separation
 
@@ -163,7 +164,6 @@ Community list of startups working with AI for audio and music tech
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument.
 - [ElevenLabs](https://beta.elevenlabs.io/) - Developing the most compelling AI speech software for publishers and creators
-- [okio](https://okio.ai/) - Open source generative tools for music
 
 ## Enhancement & Manipulation
 
