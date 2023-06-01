@@ -166,6 +166,7 @@ Community list of startups working with AI for audio and music tech
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument.
 - [ElevenLabs](https://beta.elevenlabs.io/) - Developing the most compelling AI speech software for publishers and creators
+- [play.ht](https://play.ht/) - Building the future of content creation based on generative machine learning models.
 
 ## Enhancement & Manipulation
 
