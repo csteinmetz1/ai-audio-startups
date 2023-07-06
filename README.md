@@ -54,6 +54,7 @@ Community list of startups working with AI for audio and music tech
 - [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
 - [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
 - [okio](https://okio.ai/) - Open source generative tools for music
+- [Audialab](https://audialab.com/) - Ethical audio AI plugins, tools, and community designed to empower real artists with AI, not displace them.
 
 ## Source separation
 
