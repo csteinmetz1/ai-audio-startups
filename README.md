@@ -55,6 +55,8 @@ Community list of startups working with AI for audio and music tech
 - [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
 - [okio](https://okio.ai/) - Open source generative tools for music
 - [Audialab](https://audialab.com/) - Ethical audio AI plugins, tools, and community designed to empower real artists with AI, not displace them.
+- [suno](https://www.suno.ai/) - Create music and speech with AI
+
 
 ## Source separation
 
@@ -183,7 +185,9 @@ Community list of startups working with AI for audio and music tech
 - [Neural Love](https://neural.love/audio) - Set of AI-powered tools to enhance audio quality.
 - [HeardThat](https://www.heardthatapp.com/) - A smartphone app that turns your smartphone into a sophisticated speech-enhancement device.
 - [Chatable](https://chatableapps.com) - A smartphone app that removes disruptive background noise
-- [BdSound](https://www.bdsound.com/) - Intelligent Audio Solution for audio and voice-enabled products. 
+- [BdSound](https://www.bdsound.com/) - Intelligent Audio Solution for audio and voice-enabled products.
+- [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
+- [Insoundz](https://insoundz.com/) - Generative AI Audio Enhancement
 
 # Contributing 
 
