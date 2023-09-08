@@ -50,6 +50,7 @@ Community list of startups working with AI for audio and music tech
 - [Humtap](https://en.humtap.com) - A platform for real-time music, audio & video creation.
 - [Voctro Labs](https://voiceful.io) - Synthetic Singing for creative media applications.
 - [Loudly](https://www.loudly.com) - Music solutions for the digital universe, makers of Soundtracks, AI Studio, Music Maker JAM
+- [DeepMusic](https://www.lazycomposer.com) - AI music creation and production.
 - [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music 
 - [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
 - [Setmixer](https://www.setmixer.com/) -  Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
@@ -71,6 +72,7 @@ Community list of startups working with AI for audio and music tech
 - [PhonicMind](https://phonicmind.com/) - Separate vocals, drums, bass and other instruments out of your songs with our HiFi AI.
 - [EasySplitter](https://easysplitter.com/) - AI-Based Vocal Remover Online for DJ Singers
 - [MVSep](https://mvsep.com/) - Free separation of songs with many different algorithms (Demucs, MDX, UVR etc)
+- [MuzLab](https://muzlab.co/) - Remove vocals from songs and split drums, bass and other instruments out of music.
 - [Fadr](https://fadr.com/) - Remove stems, convert to midi, and create high-quality remixes and mashups using AI tools!
 
 ## Analysis / Recommendation
