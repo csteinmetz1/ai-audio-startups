@@ -154,6 +154,7 @@ Community list of startups working with AI for audio and music tech
 - [Speechmatics](https://www.speechmatics.com/) - Autonomous Speech Recognition technology that understands every voice.
 - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
 - [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
+- [BoldVoice](https://www.boldvoice.com/) - Speak English clearly and confidently
 
 ## Synthesis (TTS)
 
