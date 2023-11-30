@@ -59,7 +59,9 @@ Community list of startups working with AI for audio and music tech
 - [Audialab](https://audialab.com/) - Ethical audio AI plugins, tools, and community designed to empower real artists with AI, not displace them.
 - [suno](https://www.suno.ai/) - Create music and speech with AI
 - [Lemonaide Music](https://www.lemonaide.ai/) - Generative Music tools integrated with DAWs and 100% royalty free.
-- [tuney.io] - Ethical Music AI for Creative Media.
+- [tuney.io](tuney.io) - Ethical Music AI for Creative Media.
+- [KORUS AI](https://play.korus.co) - AI music creation platform and your personal music producer exploring the Universe of Sound.
+- 
 
 
 ## Source separation
