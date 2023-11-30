@@ -61,8 +61,8 @@ Community list of startups working with AI for audio and music tech
 - [Lemonaide Music](https://www.lemonaide.ai/) - Generative Music tools integrated with DAWs and 100% royalty free.
 - [tuney.io](tuney.io) - Ethical Music AI for Creative Media.
 - [KORUS AI](https://play.korus.co) - AI music creation platform and your personal music producer exploring the Universe of Sound.
-- [TRINITI](https://triniti.plus) - Gives you new ways to create and express yourself through music. 
-
+- [TRINITI](https://triniti.plus) - Gives you new ways to create and express yourself through music 
+- [voice swap](https://www.voice-swap.ai) - Change your singing voice using AI
 
 ## Source separation
 
