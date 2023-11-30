@@ -159,6 +159,7 @@ Community list of startups working with AI for audio and music tech
 - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
 - [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
 - [BoldVoice](https://www.boldvoice.com/) - Speak English clearly and confidently
+- [Gladia](https://www.gladia.io) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API. 
 
 ## Synthesis (TTS)
 
@@ -200,9 +201,6 @@ Community list of startups working with AI for audio and music tech
 - [BdSound](https://www.bdsound.com/) - Intelligent Audio Solution for audio and voice-enabled products.
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) - Generative AI Audio Enhancement
-
-# Contributing 
-
 
 # Contributing
 
