@@ -77,6 +77,7 @@ Community list of startups working with AI for audio and music tech
 - [VocalRemover](https://vocalremover.org/) - Separate voice from music out of a song free with powerful AI algorithms.
 - [PhonicMind](https://phonicmind.com/) - Separate vocals, drums, bass and other instruments out of your songs with our HiFi AI.
 - [EasySplitter](https://easysplitter.com/) - AI-Based Vocal Remover Online for DJ Singers
+- [Remover.studio](https://vocalremover.co)/) - Vocal Remover & Online Karaoke
 - [MVSep](https://mvsep.com/) - Free separation of songs with many different algorithms (Demucs, MDX, UVR etc)
 - [MuzLab](https://muzlab.co/) - Remove vocals from songs and split drums, bass and other instruments out of music.
 - [Fadr](https://fadr.com/) - Remove stems, convert to midi, and create high-quality remixes and mashups using AI tools!
