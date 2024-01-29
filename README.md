@@ -182,6 +182,7 @@ Community list of startups working with AI for audio and music tech
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument.
 - [ElevenLabs](https://beta.elevenlabs.io/) - Developing the most compelling AI speech software for publishers and creators
+- [Wondercraft](https://www.wondercraft.ai/) - Wondercraft enables users to generate podcasts using Text-to-Speech technology.
 - [play.ht](https://play.ht/) - Building the future of content creation based on generative machine learning models.
 - [Revocalize.ai](https://www.revocalize.ai) – Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin.
 - [morpheme.ai](https://www.morpheme.ai) - Our Actor-First, Digital-Double Voices are powered by the latest AI technology, ensuring that they are efficient, authentic, and ethical.
