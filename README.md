@@ -64,6 +64,7 @@ Community list of startups working with AI for audio and music tech
 - [TRINITI](https://triniti.plus) - Gives you new ways to create and express yourself through music.
 - [voice swap](https://www.voice-swap.ai) - Change your singing voice using AI.
 - [mix audio](https://project.mix.audio/) - AI music for your creativity and productivity.
+- [Audiogen](https://www.audiogen.co) - Generate sounds, sound effects, music, samples, ambience and more with AI.
 
 ## Source separation
 
