@@ -65,6 +65,7 @@ Community list of startups working with AI for audio and music tech
 - [voice swap](https://www.voice-swap.ai) - Change your singing voice using AI.
 - [mix audio](https://project.mix.audio/) - AI music for your creativity and productivity.
 - [Audiogen](https://www.audiogen.co) - Generate sounds, sound effects, music, samples, ambience and more with AI.
+- [Wavtool](https://wavtool.com/) - web based DAW with AI assistants and support for local VST plug-ins
 
 ## Source separation
 
