@@ -66,6 +66,8 @@ Community list of startups working with AI for audio and music tech
 - [mix audio](https://project.mix.audio/) - AI music for your creativity and productivity.
 - [Audiogen](https://www.audiogen.co) - Generate sounds, sound effects, music, samples, ambience and more with AI.
 - [Wavtool](https://wavtool.com/) - web based DAW with AI assistants and support for local VST plug-ins
+- [Wavacity](https://wavacity.com/) - A port of the Audacity® audio editor to the web browser.
+
 
 ## Source separation
 
@@ -164,6 +166,7 @@ Community list of startups working with AI for audio and music tech
 - [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
 - [BoldVoice](https://www.boldvoice.com/) - Speak English clearly and confidently
 - [Gladia](https://www.gladia.io) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API. 
+- [Podsqueeze](https://podsqueeze.com) - Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show.
 
 ## Synthesis (TTS)
 
