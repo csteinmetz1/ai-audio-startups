@@ -6,6 +6,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Creation & Production
 
+- [Microphone Studio](https://microphonestudio.app) - Multi-track recording without expensive studio equipment
 - [TuneFlow](https://tuneflow.com/) - Generate lyrics, melody, drum beats and a lot more, while still being able to edit and mix like any professional DAWs.
 - [CassetteAI](https://cassetteAI.com) - AI powered music production platform: Make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
 - [AIVA](https://www.aiva.ai) - The Artificial Intelligence composing emotional soundtrack music.
@@ -52,7 +53,7 @@ Community list of startups working with AI for audio and music tech
 - [Voctro Labs](https://voiceful.io) - Synthetic Singing for creative media applications.
 - [Loudly](https://www.loudly.com) - Music solutions for the digital universe, makers of Soundtracks, AI Studio, Music Maker JAM
 - [DeepMusic](https://www.lazycomposer.com) - AI music creation and production.
-- [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music 
+- [Soundraw](https://soundraw.io) - Freely customize high quality royalty-free music
 - [BandLab](https://www.bandlab.com/?lang=en) - The cloud platform where musicians and fans create music, collaborate, and engage with each other across the globe.
 - [Setmixer](https://www.setmixer.com/) - Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
 - [okio](https://okio.ai/) - Open source generative tools for music
@@ -163,7 +164,7 @@ Community list of startups working with AI for audio and music tech
 - [sonix](https://sonix.ai/) - Automated transcription in 35+ languages.
 - [Picovoice](https://picovoice.ai/) - End-to-end Edge Voice AI, On-device voice recognition
 - [BoldVoice](https://www.boldvoice.com/) - Speak English clearly and confidently
-- [Gladia](https://www.gladia.io) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API. 
+- [Gladia](https://www.gladia.io) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API.
 
 ## Synthesis (TTS)
 
