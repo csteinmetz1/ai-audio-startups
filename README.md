@@ -146,6 +146,7 @@ Community list of startups working with AI for audio and music tech
 - [Circulr Sound](https://www.circulrsound.com/) - Smart audio wearables
 - [Securaxis](https://www.securaxis.com/) - We turn sounds into information.
 - [Deeply](https://deeplyinc.com) - We add meaning to every sound in the world using advanced deep learning technology for sound event detection and context recognition
+- [Reef Pulse](https://reef-pulse.com) - Coral reef monitoring using bioacoustics and AI: Sound event detection (boats, divers, waves, marine mammals, fishes, invertebrates, ...) for impactful management of marine ecosystems.
 
 # Speech
 
