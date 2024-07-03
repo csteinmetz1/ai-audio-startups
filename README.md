@@ -210,6 +210,7 @@ Community list of startups working with AI for audio and music tech
 - [BdSound](https://www.bdsound.com/) - Intelligent Audio Solution for audio and voice-enabled products.
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) - Generative AI Audio Enhancement
+- [Xound](https://xound.io/) - AI-powered audio enhancements in just one click. Grammarly for audio.
 
 # Contributing
 
