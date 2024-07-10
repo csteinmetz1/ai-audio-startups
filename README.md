@@ -69,6 +69,7 @@ Community list of startups working with AI for audio and music tech
 - [Audiogen](https://www.audiogen.co) - Generate sounds, sound effects, music, samples, ambience and more with AI.
 - [Wavtool](https://wavtool.com/) - web based DAW with AI assistants and support for local VST plug-ins
 - [Wavacity](https://wavacity.com/) - A port of the Audacity® audio editor to the web browser.
+- [DIKTATORIAL Suite](https://diktatorial.com/) - AI audio mastering with text prompts.
 
 
 ## Source separation
