@@ -143,6 +143,7 @@ Community list of startups working with AI for audio and music tech
 - [Voiseed](https://voiseed.com/)- AI-based Voice Engine is able to mimic the emotions and prosody of human speech.
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagned sounds into a synthesized MIDI instrument.
+- [Jellypod](https://jellypod.ai) - the AI podcast studio. Create customizable AI podcasts in minutes. 
 
 ## Enhancement & Manipulation
 
