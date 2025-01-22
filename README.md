@@ -92,6 +92,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Analysis / Recommendation
 
+- [Harmix](https://harmix.ai/) - AI music search with natural language, videos, similar audio and lyrics. Auto-tagging for audio and video.
 - [AIMS](https://aimsapi.com) - AI-powered music similarity search & auto-tagging for anyone who makes music discovery their business.
 - [FeedForward](https://www.feedforwardai.com) - The intuitive audio search engine for audio & sound catalogues.
 - [Aimi](https://www.aimi.fm) - Discover the artists who freed their music from the shackles of songs and playlists.
