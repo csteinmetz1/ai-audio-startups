@@ -6,6 +6,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Creation & Production
 
+- [Soundry AI](https://soundry.ai/) - AI for Musicians, by Musicians
 - [Sonauto](https://sonauto.ai/Home) - Create hit songs with AI
 - [Microphone Studio](https://microphonestudio.app) - Multi-track recording without expensive studio equipment
 - [TuneFlow](https://tuneflow.com/) - Generate lyrics, melody, drum beats and a lot more, while still being able to edit and mix like any professional DAWs.
