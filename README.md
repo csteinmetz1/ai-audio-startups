@@ -71,8 +71,8 @@ Community list of startups working with AI for audio and music tech
 - [Wavtool](https://wavtool.com/) - web based DAW with AI assistants and support for local VST plug-ins
 - [Wavacity](https://wavacity.com/) - A port of the Audacity® audio editor to the web browser.
 - [DIKTATORIAL Suite](https://diktatorial.com/) - AI audio mastering with text prompts.
+- [TwoShot](https://twoshot.app/) - Music Sampling, reimagined with AI.
 - [ChordCreate](https://chordcreate.com/) - AI-powered chord generation for songwriters, musicians and producers.
-
 
 ## Source separation
 
@@ -218,6 +218,11 @@ Community list of startups working with AI for audio and music tech
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) - Generative AI Audio Enhancement
 - [Xound](https://xound.io/) - AI-powered audio enhancements in just one click. Grammarly for audio.
+
+# Development
+## Tools & SDKs
+
+- [Quilio](https://www.quilio.dev/) - We maintain tools to help developers build real-time audio AI applications with ease.
 
 # Contributing
 
