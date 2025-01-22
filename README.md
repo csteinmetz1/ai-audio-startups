@@ -16,6 +16,7 @@ Community list of startups working with AI for audio and music tech
 - [Epidemic Sound](https://www.epidemicsound.com) - High quality music and sound effects for all your content, all rights included.
 - [Wonder](https://www.wonder.inc) - Dynascore: The world’s first Dynamic Music Engine.
 - [Amper](https://www.ampermusic.com/) _(Acquired by Shutterstock)_ - AI Music Composition Tools for Content Creators.
+- [AudioStack](https://www.audiostack.ai) - AudioStack is an AI first platform for producing audio at scale. 
 - [mayk.it](https://www.mayk.it/) - your virtual music studio.
 - [boomy](https://boomy.com/) - Make instant music, Share it with the world.
 - [enote](https://enote.com) - Intelligent Sheet Music
@@ -71,7 +72,7 @@ Community list of startups working with AI for audio and music tech
 - [Wavacity](https://wavacity.com/) - A port of the Audacity® audio editor to the web browser.
 - [DIKTATORIAL Suite](https://diktatorial.com/) - AI audio mastering with text prompts.
 - [TwoShot](https://twoshot.app/) - Music Sampling, reimagined with AI.
-- [Melodyze](https://www.melodyze.ai/) - AI driven music studio at your fingertips.
+- [ChordCreate](https://chordcreate.com/) - AI-powered chord generation for songwriters, musicians and producers.
 
 ## Source separation
 
@@ -92,6 +93,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Analysis / Recommendation
 
+- [Harmix](https://harmix.ai/) - AI music search with natural language, videos, similar audio and lyrics. Auto-tagging for audio and video.
 - [AIMS](https://aimsapi.com) - AI-powered music similarity search & auto-tagging for anyone who makes music discovery their business.
 - [FeedForward](https://www.feedforwardai.com) - The intuitive audio search engine for audio & sound catalogues.
 - [Aimi](https://www.aimi.fm) - Discover the artists who freed their music from the shackles of songs and playlists.
@@ -201,6 +203,7 @@ Community list of startups working with AI for audio and music tech
 ## Enhancement & Manipulation
 
 - [Meaning](https://www.meaning.team/) - Streaming real-time voice and accent conversion.
+- [VideoDubber](https://videodubber.ai/) - Translating video/audio through voice cloning and accent conversion in 150+ languages.
 - [krisp](https://krisp.ai/) - An AI-powered software solution for effective online meetings.
 - [voicemod](https://www.voicemod.net/) - Free real-time voice changer.
 - [audo](https://audo.ai/) - Noise cancellation products for creators, developers, and virtual meetings.
