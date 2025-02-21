@@ -127,6 +127,7 @@ Community list of startups working with AI for audio and music tech
 - [fathom](https://hello.fathom.fm) - The search engine for podcasts.
 - [Nomono](https://nomono.co) - A self-contained recording kit for capturing interviews in the field.
 - [Descript](https://www.descript.com) - All-in-one audio & video editing, as easy as a doc.
+- [Recast Studio](https://recast.studio) - AI-Powered video editor for marketing teams.
 - [auphonic](https://auphonic.com) - Automatic audio post production web service for podcasts, broadcasters, radio shows, movies, screencasts and more.
 - [SimonSays](https://www.simonsaysai.com/) - Edit Video 5x Faster Built For Teams
 - [Podcastle](https://podcastle.ai/) - Studio-quality recording, AI-powered editing, and seamless exporting – easy to use and FREE
@@ -194,7 +195,8 @@ Community list of startups working with AI for audio and music tech
 - [coqui.ai](https://coqui.ai/) - Providing open speech tech for everyone
 - [Voiseed](https://voiseed.com/)- AI-based Voice Engine is able to mimic the emotions and prosody of human speech.
 - [Speechki](https://speechki.io) - NLP-based most improved text and audio editing platform with hundreds AI-voices inside.
-- [Jellypod](https://jellypod.ai) - the AI podcast studio. Create customizable AI podcasts in minutes. 
+- [Jellypod](https://jellypod.ai) - the AI podcast studio. Create customizable AI podcasts in minutes.
+- [PodcastMaker](https://podcastmaker.ai/) - Turn your text into Lifelike Audio Discussions.
 - [MiSynth](https://www.misynth.io) - A brain-controlled instrument that uses synaptic technology and BCIs to turn imagined sounds into a synthesized MIDI instrument.
 - [ElevenLabs](https://beta.elevenlabs.io/) - Developing the most compelling AI speech software for publishers and creators
 - [Wondercraft](https://www.wondercraft.ai/) - Wondercraft enables users to generate podcasts using Text-to-Speech technology.
