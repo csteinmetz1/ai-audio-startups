@@ -226,6 +226,8 @@ Community list of startups working with AI for audio and music tech
 ## Tools & SDKs
 
 - [Quilio](https://www.quilio.dev/) - We maintain tools to help developers build real-time audio AI applications with ease.
+- [IRCAM Amplify](https://ircamamplify.io/) - We provide tools for analyzing, processing and generating audio and musical features. API first, we ship bleeding edge products like AI Detection tools and Stereo-to-Spatial algorithms.
+
 
 # Contributing
 
