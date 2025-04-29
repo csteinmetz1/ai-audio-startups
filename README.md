@@ -6,6 +6,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Creation & Production
 
+- [Aimi](https://aimi.fm/) - AI generated music for any creative workflow. Creator of Aimi Player and Aimi Sync. 
 - [Soundry AI](https://soundry.ai/) - AI for Musicians, by Musicians
 - [Sonauto](https://sonauto.ai/Home) - Create hit songs with AI
 - [Microphone Studio](https://microphonestudio.app) - Multi-track recording without expensive studio equipment
