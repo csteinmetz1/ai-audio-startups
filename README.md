@@ -6,6 +6,7 @@ Community list of startups working with AI for audio and music tech
 
 ## Creation & Production
 
+- [VRS/A](https://vrsa.app) - AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio ([studio.vrsa.app](https://studio.vrsa.app)) for a dedicated production environment.
 - [Soundry AI](https://soundry.ai/) - AI for Musicians, by Musicians
 - [Sonauto](https://sonauto.ai/Home) - Create hit songs with AI
 - [Microphone Studio](https://microphonestudio.app) - Multi-track recording without expensive studio equipment
