@@ -8,6 +8,7 @@ Community list of startups working with AI for audio and music tech
 
 - [Soundry AI](https://soundry.ai/) - AI for Musicians, by Musicians
 - [Sonauto](https://sonauto.ai/Home) - Create hit songs with AI
+- [Boppy](https://boppy.me) - Free AI music generator that creates complete songs with AI-written lyrics from text descriptions. Powered by ACE-Step 1.5.
 - [Microphone Studio](https://microphonestudio.app) - Multi-track recording without expensive studio equipment
 - [TuneFlow](https://tuneflow.com/) - Generate lyrics, melody, drum beats and a lot more, while still being able to edit and mix like any professional DAWs.
 - [CassetteAI](https://cassetteAI.com) - AI powered music production platform: Make lyrics, beats & vocals with AI then mix & publish straight from Cassette.
