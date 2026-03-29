@@ -74,6 +74,7 @@ Community list of startups working with AI for audio and music tech
 - [DIKTATORIAL Suite](https://diktatorial.com/) - AI audio mastering with text prompts.
 - [TwoShot](https://twoshot.app/) - Music Sampling, reimagined with AI.
 - [ChordCreate](https://chordcreate.com/) - AI-powered chord generation for songwriters, musicians and producers.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI.
 
 ## Source separation
 
