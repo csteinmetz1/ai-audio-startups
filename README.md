@@ -62,6 +62,7 @@ Community list of startups working with AI for audio and music tech
 - [okio](https://okio.ai/) - Open source generative tools for music
 - [Audialab](https://audialab.com/) - Ethical audio AI plugins, tools, and community designed to empower real artists with AI, not displace them.
 - [suno](https://www.suno.ai/) - Create music and speech with AI
+- [Skank Bank](https://skankbank.app) - AI-generated Drum & Bass music platform. Generate 2 DnB tracks for £0.99, then keep them or auction in a 7-day bidding window. Free library of 2,449 royalty-free DnB tracks.
 - [Lemonaide Music](https://www.lemonaide.ai/) - Generative Music tools integrated with DAWs and 100% royalty free.
 - [tuney.io](tuney.io) - Ethical Music AI for Creative Media.
 - [KORUS AI](https://play.korus.co) - AI music creation platform and your personal music producer exploring the Universe of Sound.
