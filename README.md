@@ -15,6 +15,7 @@ Community list of startups working with AI for audio and music tech
 - [beatoven.ai](https://www.beatoven.ai) - A simplified music creation tool that helps you create music for your videos and podcasts.
 - [Infinite Album](https://www.infinitealbum.io) - Adaptive AI music for gamers who livestream.
 - [Epidemic Sound](https://www.epidemicsound.com) - High quality music and sound effects for all your content, all rights included.
+- [HookGenius](https://hookgenius.app) - AI prompt engine for Suno music creators. Generates complete song lyrics, structure tags, and Suno-optimized style prompts.
 - [Wonder](https://www.wonder.inc) - Dynascore: The world’s first Dynamic Music Engine.
 - [Amper](https://www.ampermusic.com/) _(Acquired by Shutterstock)_ - AI Music Composition Tools for Content Creators.
 - [AudioStack](https://www.audiostack.ai) - AudioStack is an AI first platform for producing audio at scale. 
