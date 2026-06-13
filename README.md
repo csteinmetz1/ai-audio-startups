@@ -121,6 +121,10 @@ Community list of startups working with AI for audio and music tech
 - [Novoic](https://novoic.com/) - Using speech to detect neurological diseases.
 - [Ubenwa](https://www.ubenwa.ai) - Infant health analysis based on cry signals.
 
+## Learning & Education
+
+- [Strumly](https://strumly.suedeai.ai) - Conversational AI guitar coach that listens as you play, scores your chord changes in real time, and builds practice plans across chords, scales, songs, and ear training.
+
 # Radio / Podcast
 
 - [faidr](https://faidr.com) - Your favorite radio, interruption free.
