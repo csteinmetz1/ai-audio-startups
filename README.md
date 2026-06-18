@@ -61,6 +61,7 @@ Community list of startups working with AI for audio and music tech
 - [Setmixer](https://www.setmixer.com/) - Help artists record, mix and master their live shows using a combination of embedded software, signal processing, AI.
 - [okio](https://okio.ai/) - Open source generative tools for music
 - [Audialab](https://audialab.com/) - Ethical audio AI plugins, tools, and community designed to empower real artists with AI, not displace them.
+- [Suede AI](https://suedeai.ai/) - Rights-aware music and video generation with provenance, licensing, royalty-routing, and x402-payable agent workflows from Suede Labs.
 - [suno](https://www.suno.ai/) - Create music and speech with AI
 - [Lemonaide Music](https://www.lemonaide.ai/) - Generative Music tools integrated with DAWs and 100% royalty free.
 - [tuney.io](tuney.io) - Ethical Music AI for Creative Media.
