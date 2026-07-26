@@ -107,6 +107,7 @@ Community list of startups working with AI for audio and music tech
 - [hoopr](https://www.hoopr.ai) - Find the best music, tell better stories, grow your audience. AI-powered engine that helps find the right soundtrack.
 - [Pex](https://www.pex.com) - Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale.
 - [SONOTELLER](https://sonoteller.ai) - AI music analysis including song lyrics summarization, themes extraction and musical features.
+- [SOMPT](https://sompt.io/) - Analyze authorized reference audio and turn reviewable musical evidence into editable prompts, styles, exclusions, and variants.
 
 ## Health & Wellbeing
 
