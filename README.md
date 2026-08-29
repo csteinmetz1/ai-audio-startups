@@ -35,6 +35,7 @@ Community list of startups working with AI for audio and music tech
 - [Neutone](https://neutone.space/) - AI audio plugin & community bridging the gap between AI research and creativity.
 - [RoEx](https://www.roexaudio.com) - AI Powered Mixing Services for Musicians, Producers and Content Creators.
 - [LANDR](https://www.landr.com) - Online music software for creators: music mastering, digital music distribution, rent-to-own plugins, free sample packs, collaboration tools.
+- [Slapback](https://slapback.io) - AI music feedback for producers: creative and engineering feedback on your mix, reference track comparison, and timestamped collaborator comments.
 - [Accusonus](https://accusonus.com) _(Acquired by Meta)_ - Audio and Video Editing Software For Creators
 - [Moises](https://moises.ai/) - The Musician’s App.
 - [Waveshaper](https://waveshaper.ai/) (Previously Tonz) - Real-time neural signal processing
