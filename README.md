@@ -74,6 +74,7 @@ Community list of startups working with AI for audio and music tech
 - [DIKTATORIAL Suite](https://diktatorial.com/) - AI audio mastering with text prompts.
 - [TwoShot](https://twoshot.app/) - Music Sampling, reimagined with AI.
 - [ChordCreate](https://chordcreate.com/) - AI-powered chord generation for songwriters, musicians and producers.
+- [Minimal Music Maker](https://minimalmusic.puente-saas.com/) - Free browser-based generative music from Conway's Game of Life and Euler's identity; 28 styles with chord progressions, a stage mode for live streaming, and patterns that share as a single URL.
 
 ## Source separation
 
