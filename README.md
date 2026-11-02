@@ -221,6 +221,7 @@ Community list of startups working with AI for audio and music tech
 - [echosonic](https://www.echosonic.ca/) - Revolutionizing microphone by bringing Machine Learning capabilities into it.
 - [Insoundz](https://insoundz.com/) - Generative AI Audio Enhancement
 - [Xound](https://xound.io/) - AI-powered audio enhancements in just one click. Grammarly for audio.
+- [Diffio AI](https://diffio.ai/) - Speech restoration for recorded audio (web app and API): removes background noise, room echo, hum and hiss and returns only the voice.
 
 # Development
 ## Tools & SDKs
