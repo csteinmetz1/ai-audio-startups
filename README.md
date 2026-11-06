@@ -166,6 +166,7 @@ Community list of startups working with AI for audio and music tech
 - [voiceitt](https://voiceitt.com/) - An app for people with non-standard speech
 - [deepgram.com](https://deepgram.com/) - Better voice applications with faster, more accurate transcription through AI Speech Recognition
 - [fireflies.ai](https://fireflies.ai/) - AI assistant for your meetings
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and [MCP server](https://github.com/onemira-space/onemira-mcp)
 - [SoapBox](https://www.soapboxlabs.com/) - Speech technology that makes kids heard.
 - [Amberscript](https://www.amberscript.com/en/) - SaaS solutions that automatically transform audio and video into text and subtitles using speech recognition.
 - [Speaksee](https://speak-see.com/) - Live captions what’s being said during in-person group meetings.
